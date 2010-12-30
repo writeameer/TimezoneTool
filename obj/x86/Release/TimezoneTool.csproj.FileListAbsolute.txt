@@ -1,0 +1,6 @@
+c:\Progs\test\TimezoneTool\TimezoneTool\bin\Release\TimezoneTool.exe
+c:\Progs\test\TimezoneTool\TimezoneTool\bin\Release\TimezoneTool.pdb
+c:\Progs\test\TimezoneTool\TimezoneTool\obj\x86\Release\ResolveAssemblyReference.cache
+c:\Progs\test\TimezoneTool\TimezoneTool\obj\x86\Release\TimezoneTool.exe
+c:\Progs\test\TimezoneTool\TimezoneTool\obj\x86\Release\TimezoneTool.pdb
+c:\Progs\test\TimezoneTool\TimezoneTool\bin\Release\TimezoneTool.exe.config
