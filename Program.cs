@@ -37,6 +37,7 @@ namespace TimezoneTool
             Console.WriteLine("Current Time Zone:{0}", TimeZone.CurrentTimeZone.StandardName);
             ChangeTimeZone(newTimezone);
 
+            Environment.Exit(0);
         }
 
         public static void ChangeTimeZone(string newTimezone)
@@ -129,7 +130,7 @@ namespace TimezoneTool
             foreach (var timeZoneInfo in timezones)
             {
                 counter++;
-                Console.WriteLine("{0}. {1}", counter,timeZoneInfo.Id);
+                Console.WriteLine("{0}. {1}, {2}", counter, timeZoneInfo.StandardName, timeZoneInfo.DisplayName);
             }
 
             Environment.Exit(1);
